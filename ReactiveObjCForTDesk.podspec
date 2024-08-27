@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ReactiveObjCForTDesk"
-  s.version      = "4.0.0"
+  s.version      = "4.0.1"
   s.summary      = "The 2.x ReactiveCocoa Objective-C API: Streams of values over time"
 
   s.description  = <<-DESC.strip_heredoc
@@ -10,15 +10,12 @@ Pod::Spec.new do |s|
                      http://en.wikipedia.org/wiki/Functional_reactive_programming).
                      It provides APIs for composing and **transforming streams of values**.
                    DESC
-
-  s.homepage     = "https://reactivecocoa.io"
+                   
+  s.homepage     = 'https://cloud.tencent.com/document/product/269/3794'
+  s.documentation_url = 'https://cloud.tencent.com/document/product/269/9147'
   s.license      = { type: "MIT", file: "LICENSE.md" }
 
-  s.documentation_url  = "https://github.com/ReactiveCocoa/ReactiveObjC/"\
-                         "tree/master/Documentation#readme"
-
   s.author             = "ReactiveCocoa"
-  s.social_media_url   = "https://twitter.com/ReactiveCocoa"
   
   s.platform     = :ios
   s.ios.deployment_target = '9.0'
