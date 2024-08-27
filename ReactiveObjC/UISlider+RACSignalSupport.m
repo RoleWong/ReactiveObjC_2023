@@ -7,7 +7,7 @@
 //
 
 #import "UISlider+RACSignalSupport.h"
-#import <ReactiveObjC/EXTKeyPathCoding.h>
+#import <ReactiveObjCForTDesk/RACEXTKeyPathCoding.h>
 #import "UIControl+RACSignalSupportPrivate.h"
 
 @implementation UISlider (RACSignalSupport)

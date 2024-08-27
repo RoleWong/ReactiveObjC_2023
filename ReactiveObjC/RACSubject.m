@@ -7,7 +7,7 @@
 //
 
 #import "RACSubject.h"
-#import <ReactiveObjC/EXTScope.h>
+#import <ReactiveObjCForTDesk/RACEXTScope.h>
 #import "RACCompoundDisposable.h"
 #import "RACPassthroughSubscriber.h"
 

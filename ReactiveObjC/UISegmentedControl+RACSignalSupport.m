@@ -7,7 +7,7 @@
 //
 
 #import "UISegmentedControl+RACSignalSupport.h"
-#import <ReactiveObjC/EXTKeyPathCoding.h>
+#import <ReactiveObjCForTDesk/RACEXTKeyPathCoding.h>
 #import "UIControl+RACSignalSupportPrivate.h"
 
 @implementation UISegmentedControl (RACSignalSupport)

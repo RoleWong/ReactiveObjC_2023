@@ -7,7 +7,7 @@
 //
 
 #import "NSObject+RACPropertySubscribing.h"
-#import <ReactiveObjC/EXTScope.h>
+#import <ReactiveObjCForTDesk/RACEXTScope.h>
 #import "NSObject+RACDeallocating.h"
 #import "NSObject+RACDescription.h"
 #import "NSObject+RACKVOWrapper.h"

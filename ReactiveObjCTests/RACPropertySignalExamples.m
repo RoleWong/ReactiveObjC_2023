@@ -11,7 +11,7 @@
 
 #import "RACTestObject.h"
 
-#import <ReactiveObjC/EXTKeyPathCoding.h>
+#import <ReactiveObjC/RACEXTKeyPathCoding.h>
 #import "NSObject+RACDeallocating.h"
 #import "NSObject+RACPropertySubscribing.h"
 #import "NSObject+RACSelectorSignal.h"

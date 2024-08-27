@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
-  s.name         = "ReactiveObjC"
-  s.version      = "3.1.1"
+  s.name         = "ReactiveObjCForTDesk"
+  s.version      = "4.0.0"
   s.summary      = "The 2.x ReactiveCocoa Objective-C API: Streams of values over time"
 
   s.description  = <<-DESC.strip_heredoc
@@ -12,7 +12,6 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://reactivecocoa.io"
-  s.screenshots  = "https://reactivecocoa.io/img/logo.png"
   s.license      = { type: "MIT", file: "LICENSE.md" }
 
   s.documentation_url  = "https://github.com/ReactiveCocoa/ReactiveObjC/"\
@@ -20,13 +19,11 @@ Pod::Spec.new do |s|
 
   s.author             = "ReactiveCocoa"
   s.social_media_url   = "https://twitter.com/ReactiveCocoa"
+  
+  s.platform     = :ios
+  s.ios.deployment_target = '9.0'
 
-  s.ios.deployment_target     = "8.0"
-  s.osx.deployment_target     = "10.9"
-  s.watchos.deployment_target = "2.0"
-  s.tvos.deployment_target    = "9.0"
-
-  s.source = { git: "https://github.com/ReactiveCocoa/ReactiveObjC.git",
+  s.source = { git: "https://github.com/RoleWong/ReactiveObjC_2023.git",
                tag: s.version }
 
   s.source_files          = "ReactiveObjC/*.{h,m,d}",

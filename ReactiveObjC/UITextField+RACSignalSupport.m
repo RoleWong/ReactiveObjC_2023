@@ -7,8 +7,8 @@
 //
 
 #import "UITextField+RACSignalSupport.h"
-#import <ReactiveObjC/EXTKeyPathCoding.h>
-#import <ReactiveObjC/EXTScope.h>
+#import <ReactiveObjCForTDesk/RACEXTKeyPathCoding.h>
+#import <ReactiveObjCForTDesk/RACEXTScope.h>
 #import "NSObject+RACDeallocating.h"
 #import "NSObject+RACDescription.h"
 #import "RACSignal+Operations.h"

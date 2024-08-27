@@ -13,7 +13,7 @@
 #import "RACScheduler+Private.h"
 #import "RACQueueScheduler+Subclass.h"
 #import "RACDisposable.h"
-#import <ReactiveObjC/EXTScope.h>
+#import <ReactiveObjC/RACEXTScope.h>
 #import "RACTestExampleScheduler.h"
 #import <libkern/OSAtomic.h>
 
