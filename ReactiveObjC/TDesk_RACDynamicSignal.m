@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_RACDynamicSignal.h"
-#import "TDesk_RACEXTScope.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTScope.h>
 #import "TDesk_RACCompoundDisposable.h"
 #import "TDesk_RACPassthroughSubscriber.h"
 #import "TDesk_RACScheduler+Private.h"

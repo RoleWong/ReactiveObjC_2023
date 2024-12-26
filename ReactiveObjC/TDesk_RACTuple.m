@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_RACTuple.h"
-#import "TDesk_RACEXTKeyPathCoding.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTKeyPathCoding.h>
 #import "TDesk_RACTupleSequence.h"
 
 @implementation RACTupleNil

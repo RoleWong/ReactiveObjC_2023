@@ -14,8 +14,8 @@ FOUNDATION_EXPORT double ReactiveObjCVersionNumber;
 //! Project version string for ReactiveObjC.
 FOUNDATION_EXPORT const unsigned char ReactiveObjCVersionString[];
 
-#import "TDesk_RACEXTKeyPathCoding.h"
-#import "TDesk_RACEXTScope.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTKeyPathCoding.h>
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTScope.h>
 #import <ReactiveObjCForTDesk/TDesk_NSArray+RACSequenceAdditions.h>
 #import <ReactiveObjCForTDesk/TDesk_NSData+RACSupport.h>
 #import <ReactiveObjCForTDesk/TDesk_NSDictionary+RACSequenceAdditions.h>

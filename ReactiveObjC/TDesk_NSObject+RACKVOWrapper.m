@@ -7,8 +7,8 @@
 //
 
 #import "TDesk_NSObject+RACKVOWrapper.h"
-#import <ReactiveObjCForTDesk/TDesk_RACEXTRuntimeExtensions.h>
-#import "TDesk_RACEXTScope.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTRuntimeExtensions.h>
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTScope.h>
 #import "TDesk_NSObject+RACDeallocating.h"
 #import "TDesk_NSString+RACKeyPathUtilities.h"
 #import "TDesk_RACCompoundDisposable.h"

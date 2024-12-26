@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_UIBarButtonItem+RACCommandSupport.h"
-#import "TDesk_RACEXTKeyPathCoding.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTKeyPathCoding.h>
 #import "TDesk_RACCommand.h"
 #import "TDesk_RACDisposable.h"
 #import "TDesk_RACSignal+Operations.h"

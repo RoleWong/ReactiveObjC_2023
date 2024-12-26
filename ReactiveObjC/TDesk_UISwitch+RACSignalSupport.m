@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_UISwitch+RACSignalSupport.h"
-#import "TDesk_RACEXTKeyPathCoding.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTKeyPathCoding.h>
 #import "TDesk_UIControl+RACSignalSupportPrivate.h"
 
 @implementation UISwitch (RACSignalSupport)

@@ -7,7 +7,7 @@
 //  Released under the MIT license.
 //
 
-#import "TDesk_RACmetamacros.h"
+#import "RACTDesk_RACmetamacros.h"
 
 /**
  * \@onExit defines some code to be executed when the current scope exits. The

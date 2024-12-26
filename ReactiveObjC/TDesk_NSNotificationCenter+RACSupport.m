@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_NSNotificationCenter+RACSupport.h"
-#import "TDesk_RACEXTScope.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTScope.h>
 #import "TDesk_RACSignal.h"
 #import "TDesk_RACSubscriber.h"
 #import "TDesk_RACDisposable.h"

@@ -7,8 +7,8 @@
 //
 
 #import "TDesk_RACChannel.h"
-#import "TDesk_RACEXTKeyPathCoding.h"
-#import "TDesk_RACmetamacros.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTKeyPathCoding.h>
+#import "RACTDesk_RACmetamacros.h"
 
 /// Creates a RACKVOChannel to the given key path. When the targeted object
 /// deallocates, the channel will complete.

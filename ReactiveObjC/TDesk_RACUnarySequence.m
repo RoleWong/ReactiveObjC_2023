@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_RACUnarySequence.h"
-#import "TDesk_RACEXTKeyPathCoding.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTKeyPathCoding.h>
 #import "TDesk_NSObject+RACDescription.h"
 
 @interface RACUnarySequence ()

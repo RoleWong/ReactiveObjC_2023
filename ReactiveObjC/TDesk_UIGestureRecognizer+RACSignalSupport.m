@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_UIGestureRecognizer+RACSignalSupport.h"
-#import "TDesk_RACEXTScope.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTScope.h>
 #import "TDesk_NSObject+RACDeallocating.h"
 #import "TDesk_NSObject+RACDescription.h"
 #import "TDesk_RACCompoundDisposable.h"

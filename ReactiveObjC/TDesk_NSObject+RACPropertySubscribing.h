@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TDesk_RACEXTKeyPathCoding.h"
-#import "TDesk_RACmetamacros.h"
+#import <ReactiveObjCForTDesk/RACTDesk_RACEXTKeyPathCoding.h>
+#import "RACTDesk_RACmetamacros.h"
 
 /// Creates a signal which observes `KEYPATH` on `TARGET` for changes.
 ///

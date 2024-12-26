@@ -7,7 +7,7 @@
 //  Released under the MIT license.
 //
 
-#import "TDesk_RACEXTRuntimeExtensions.h"
+#import "RACTDesk_RACEXTRuntimeExtensions.h"
 
 #import <ctype.h>
 #import <Foundation/Foundation.h>
