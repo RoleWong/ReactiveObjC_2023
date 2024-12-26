@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_RACSubject.h"
-#import <ReactiveObjCForTDesk/TDesk_RACEXTScope.h>
+#import "TDesk_RACEXTScope.h"
 #import "TDesk_RACCompoundDisposable.h"
 #import "TDesk_RACPassthroughSubscriber.h"
 

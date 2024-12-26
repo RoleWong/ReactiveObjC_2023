@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_NSObject+RACLifting.h"
-#import <ReactiveObjCForTDesk/TDesk_RACEXTScope.h>
+#import "TDesk_RACEXTScope.h"
 #import "TDesk_NSInvocation+RACTypeParsing.h"
 #import "TDesk_NSObject+RACDeallocating.h"
 #import "TDesk_NSObject+RACDescription.h"

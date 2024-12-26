@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_RACTestScheduler.h"
-#import <ReactiveObjCForTDesk/TDesk_RACEXTScope.h>
+#import "TDesk_RACEXTScope.h"
 #import "TDesk_RACCompoundDisposable.h"
 #import "TDesk_RACDisposable.h"
 #import "TDesk_RACScheduler+Private.h"

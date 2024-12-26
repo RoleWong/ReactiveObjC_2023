@@ -7,8 +7,8 @@
 //
 
 #import "TDesk_UITextField+RACSignalSupport.h"
-#import <ReactiveObjCForTDesk/TDesk_RACEXTKeyPathCoding.h>
-#import <ReactiveObjCForTDesk/TDesk_RACEXTScope.h>
+#import "TDesk_RACEXTKeyPathCoding.h"
+#import "TDesk_RACEXTScope.h"
 #import "TDesk_NSObject+RACDeallocating.h"
 #import "TDesk_NSObject+RACDescription.h"
 #import "TDesk_RACSignal+Operations.h"

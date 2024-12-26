@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_RACKVOChannel.h"
-#import <ReactiveObjCForTDesk/TDesk_RACEXTScope.h>
+#import "TDesk_RACEXTScope.h"
 #import "TDesk_NSObject+RACDeallocating.h"
 #import "TDesk_NSObject+RACKVOWrapper.h"
 #import "TDesk_NSString+RACKeyPathUtilities.h"

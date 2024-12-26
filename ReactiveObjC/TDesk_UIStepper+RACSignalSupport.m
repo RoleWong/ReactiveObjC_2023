@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_UIStepper+RACSignalSupport.h"
-#import <ReactiveObjCForTDesk/TDesk_RACEXTKeyPathCoding.h>
+#import "TDesk_RACEXTKeyPathCoding.h"
 #import "TDesk_UIControl+RACSignalSupportPrivate.h"
 
 @implementation UIStepper (RACSignalSupport)

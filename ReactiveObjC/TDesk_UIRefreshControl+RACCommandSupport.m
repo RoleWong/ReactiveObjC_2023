@@ -7,7 +7,7 @@
 //
 
 #import "TDesk_UIRefreshControl+RACCommandSupport.h"
-#import <ReactiveObjCForTDesk/TDesk_RACEXTKeyPathCoding.h>
+#import "TDesk_RACEXTKeyPathCoding.h"
 #import "TDesk_RACCommand.h"
 #import "TDesk_RACCompoundDisposable.h"
 #import "TDesk_RACDisposable.h"
